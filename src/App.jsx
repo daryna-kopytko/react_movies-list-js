@@ -1,6 +1,5 @@
-import './App.scss';
-
 import { MovieList } from './components/MovieList';
+import './App.scss';
 import movies from './api/movies.json';
 
 export const App = () => (
